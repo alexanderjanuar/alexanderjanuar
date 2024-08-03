@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alexander Januar and I'm a third year student, from Mulawarman University</h2>
+<h2 align="left">Hi 👋! My name is Alexander Januar and I'm a fourth year student, from Mulawarman University</h2>
 
 ###
 
